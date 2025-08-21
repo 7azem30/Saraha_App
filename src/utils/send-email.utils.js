@@ -4,7 +4,7 @@ import { EventEmitter } from 'node:events'
 export const sendEmail = async (
     {
         to,
-        cc="cjjevocxihbpjwnsol@enotj.com",
+        cc="temp645duwe@enotj.com",
         subject,
         content,
         attachments = []
